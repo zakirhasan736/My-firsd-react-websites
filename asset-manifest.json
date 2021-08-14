@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/My-firsd-react-websites/static/css/main.048e96dd.chunk.css",
+    "main.js": "/My-firsd-react-websites/static/js/main.f16257d5.chunk.js",
+    "main.js.map": "/My-firsd-react-websites/static/js/main.f16257d5.chunk.js.map",
+    "runtime-main.js": "/My-firsd-react-websites/static/js/runtime-main.46780971.js",
+    "runtime-main.js.map": "/My-firsd-react-websites/static/js/runtime-main.46780971.js.map",
+    "static/js/2.5ed02698.chunk.js": "/My-firsd-react-websites/static/js/2.5ed02698.chunk.js",
+    "static/js/2.5ed02698.chunk.js.map": "/My-firsd-react-websites/static/js/2.5ed02698.chunk.js.map",
+    "index.html": "/My-firsd-react-websites/index.html",
+    "static/css/main.048e96dd.chunk.css.map": "/My-firsd-react-websites/static/css/main.048e96dd.chunk.css.map",
+    "static/js/2.5ed02698.chunk.js.LICENSE.txt": "/My-firsd-react-websites/static/js/2.5ed02698.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46780971.js",
+    "static/js/2.5ed02698.chunk.js",
+    "static/css/main.048e96dd.chunk.css",
+    "static/js/main.f16257d5.chunk.js"
+  ]
+}
