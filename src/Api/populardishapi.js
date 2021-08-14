@@ -1,0 +1,88 @@
+const PopularDish = [
+    {
+        id: 1,
+        iconH: "fas fa-heart",
+        iconeye: "fas fa-eye",
+        iconretingf: "fas fa-star",
+        iconretinghalf: "fas fa-star-half-alt",
+        image: "../images/dish-1.png",
+        title: "tasty food",
+        subtitle: "",
+        category: "",
+        price: "$15.99",
+        description: "" ,
+        btn: "add to cart"
+        },
+        {
+            id: 2,
+            iconH: "fas fa-heart",
+            iconeye: "fas fa-eye",
+            iconretingf: "fas fa-star",
+            iconretinghalf: "fas fa-star-half-alt",
+            image: "../images/dish-2.png",
+            title: "tasty food",
+            subtitle: "",
+            category: "",
+            price: "$15.99",
+            description: "" ,
+            btn: "add to cart"
+            },
+            {
+                id: 3,
+                iconH: "fas fa-heart",
+                iconeye: "fas fa-eye",
+                iconretingf: "fas fa-star",
+                iconretinghalf: "fas fa-star-half-alt",
+                image: "../images/dish-3.png",
+                title: "tasty food",
+                subtitle: "",
+                category: "",
+                price: "$15.99",
+                description: "" ,
+                btn: "add to cart"
+                },
+                {
+                    id: 4,
+                    iconH: "fas fa-heart",
+                    iconeye: "fas fa-eye",
+                    iconretingf: "fas fa-star",
+                    iconretinghalf: "fas fa-star-half-alt",
+                    image: "../images/dish-4.png",
+                    title: "tasty food",
+                    subtitle: "",
+                    category: "",
+                    price: "$15.99",
+                    description: "" ,
+                    btn: "add to cart"
+                    },
+                    {
+                        id: 5,
+                        iconH: "fas fa-heart",
+                        iconeye: "fas fa-eye",
+                        iconretingf: "fas fa-star",
+                        iconretinghalf: "fas fa-star-half-alt",
+                        image: "../images/dish-5.png",
+                        title: "tasty food",
+                        subtitle: "",
+                        category: "",
+                        price: "$15.99",
+                        description: "" ,
+                        btn: "add to cart"
+                        },
+                        {
+                            id: 6,
+                            iconH: "fas fa-heart",
+                            iconeye: "fas fa-eye",
+                            iconretingf: "fas fa-star",
+                            iconretinghalf: "fas fa-star-half-alt",
+                            image: "../images/dish-6.png",
+                            title: "tasty food",
+                            subtitle: "",
+                            category: "",
+                            price: "$15.99",
+                            description: "" ,
+                            btn: "add to cart"
+                            },
+                            
+]
+export default PopularDish;
