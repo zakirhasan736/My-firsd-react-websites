@@ -78,12 +78,12 @@ section:nth-child(odd){
     background: var(--black);
     border-radius: .5rem;
     cursor: pointer;
-    padding:.8rem 2rem;
+    padding:1rem 2rem;
 }
 
 .btn:hover{
     background: var(--green);
-    letter-spacing: .1rem;
+    letter-spacing: .1rem !important;
 }
 
 header{
